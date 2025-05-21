@@ -50,7 +50,7 @@ Before installing TechuraDesktop, please ensure you have the following software:
 
 4. If you encounter missing dependencies, run:
 
-   ```bash
+   ```
    sudo apt-get install -f
    ```
 
