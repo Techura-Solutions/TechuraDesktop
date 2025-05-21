@@ -44,7 +44,7 @@ Before installing TechuraDesktop, please ensure you have the following software:
 2. Open a terminal and navigate to the folder where the `.deb` file is located.
 3. Install the package using the following command:
 
-   ```bash
+   ```
    sudo dpkg -i techuradesktop_<version>.deb
 ```
 
